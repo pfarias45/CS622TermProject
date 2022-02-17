@@ -11,8 +11,8 @@ In progress: Developing the application's GUI with JavaFX and utilizing SQLite a
 RUML Diagram: https://docs.google.com/spreadsheets/d/1FPuO-YTfygUuotUF6Be33crQtu2JYv2mAWUfOktj8AY/edit?usp=sharing
 
 ***
-Java,
-JavaFX
-SQLite
+Java, 
+JavaFX, 
+SQLite, 
 Eclipse
 ***
