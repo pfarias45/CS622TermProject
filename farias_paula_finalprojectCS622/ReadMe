@@ -11,7 +11,7 @@ provides users with the option to download the PDF to their downloads folder, em
 
 Created in Eclipse
 Uses Maven with iText dependency
+Uses SQLite for database
 
 RUML Diagram: 
 https://docs.google.com/spreadsheets/d/1FPuO-YTfygUuotUF6Be33crQtu2JYv2mAWUfOktj8AY/edit#gid=698759555
-
