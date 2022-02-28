@@ -1,0 +1,38 @@
+{
+	"AcctCheckScript": "\nWelcome to ResumeBuilder! If admin, enter 1. Otherwise, enter 2 to begin creating your resume:\n",
+
+	"PasswordScript": "\nEnter admin password:\n",
+	
+	"AdminScript": "\nEnter the number associated with the task you would like to do:\n\n1-Count of resumes per login date of users\n2-List of all users in database\n3-List of resume names per user (search by username)\n4-Content of a user's specific resume (search by username AND resume name)\n",
+
+	"AdminScript2": "\nEnter a username to search:\n",
+	
+	"AdminScript3": "\nEnter a username and resume name to search separated by a comma:\n",
+	
+	"OverviewScript": "\nThe resume will be organized in the following order:\n\n-Contact\n-Summary\n-Experience\n-Education\n-Skills",
+	
+	"ContactScript": "\nEnter full name and email separated by a comma for Contact:\n",
+
+	"SummaryScript": "\nEnter 3 sentences separated by a period that describe your career goals for Summary:\n",
+
+	"TitleEmpScript": "\nEnter position title and company name separated by a comma:\n ",
+	"DutiesScript": "\nEnter your 3 most important job duties separated by a period. Start each statement with an action verb:\n",
+
+	"DegSchoScript": "\nEnter degree program and school name separated by a comma:\n ",
+	
+	"NumScript": "\nEnter the number of items to include in resume for ",
+	"StartScript": "\nEnter start date (yyyy-mm) at ",
+	"EndScript": "\nEnter end date (yyyy-mm) or NA if currently at ",
+	"ErrorScript": "\nIncorrect input. Error explanation: ",
+	
+	"RNameScript":"\nYou are done. Enter the name of your resume:\n",
+	
+	"PDFPathScript": "\nWould you like to email your resume, donwload it or both?\nEnter 1 for email, 2 for download or 3 for both:\n",
+	
+	"SkillsScript": "\nEnter your 3 most marketable skills (soft and hard) separated by a period:\n"		
+}
+
+	
+
+
+	
